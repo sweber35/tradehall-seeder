@@ -13,9 +13,7 @@ export async function handler(event, context) {
 
   const seedData = generateSeedData(event.number);
 
-  const response = insertSeedData(seedData);
+  const response = await insertSeedData(seedData);
 
   return response;
 }
-
-handler();
