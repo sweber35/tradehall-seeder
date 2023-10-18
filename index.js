@@ -1,5 +1,5 @@
-import { insertSeedData } from "./db.js";
-import { generateSeedData } from "./seed.js";
+import { insertSeedData } from "./src/db.js";
+import { generateSeedData } from "./src/seed.js";
 
 export async function handler(event, context) {
   /*
