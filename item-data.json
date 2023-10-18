@@ -1,0 +1,1311 @@
+{
+  "enchantment_constants": [
+    {
+      "name": "action_speed",
+      "type": "percent",
+      "range": {
+        "min": "0.5",
+        "max": "5"
+      }
+    },
+    {
+      "name": "additional_magic_damage",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "additional_physical_damage",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "agility",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "all_attributes",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "armor_penetration",
+      "type": "percent",
+      "range": {
+        "min": "1.5",
+        "max": "5"
+      }
+    },
+    {
+      "name": "armor_rating",
+      "type": "number",
+      "range": {
+        "min": "8",
+        "max": "15"
+      }
+    },
+    {
+      "name": "buff_duration_bonus",
+      "type": "percent",
+      "range": {
+        "min": "0.5",
+        "max": "4"
+      }
+    },
+    {
+      "name": "debuff_duration_bonus",
+      "type": "percent",
+      "range": {
+        "min": "0.5",
+        "max": "4"
+      }
+    },
+    {
+      "name": "item_equip_speed",
+      "type": "percent",
+      "range": {
+        "min": "1",
+        "max": "4"
+      }
+    },
+    {
+      "name": "knowledge",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "magic_penetration",
+      "type": "percent",
+      "range": {
+        "min": "1.5",
+        "max": "4"
+      }
+    },
+    {
+      "name": "magic_resistance",
+      "type": "number",
+      "range": {
+        "min": "6",
+        "max": "15"
+      }
+    },
+    {
+      "name": "magical_damage_bonus",
+      "type": "percent",
+      "range": {
+        "min": "1",
+        "max": "5"
+      }
+    },
+    {
+      "name": "magical_damage_reduction",
+      "type": "percent",
+      "range": {
+        "min": "1",
+        "max": "4"
+      }
+    },
+    {
+      "name": "magical_healing",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "magical_interaction_speed",
+      "type": "percent",
+      "range": {
+        "min": "1",
+        "max": "4"
+      }
+    },
+    {
+      "name": "magical_power",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "max_health",
+      "type": "number",
+      "range": {
+        "min": "2",
+        "max": "6"
+      }
+    },
+    {
+      "name": "max_health_bonus",
+      "type": "percent",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "move_speed",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "5"
+      }
+    },
+    {
+      "name": "move_speed_bonus",
+      "type": "percent",
+      "range": {
+        "min": "0.5",
+        "max": "1.5"
+      }
+    },
+    {
+      "name": "physical_damage_bonus",
+      "type": "percent",
+      "range": {
+        "min": "1",
+        "max": "5"
+      }
+    },
+    {
+      "name": "physical_damage_reduction",
+      "type": "percent",
+      "range": {
+        "min": "0.5",
+        "max": "2"
+      }
+    },
+    {
+      "name": "physical_healing",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "physical_power",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "projectile_damage_reduction",
+      "type": "percent",
+      "range": {
+        "min": "1",
+        "max": "5"
+      }
+    },
+    {
+      "name": "regular_interaction_speed",
+      "type": "percent",
+      "range": {
+        "min": "1",
+        "max": "4"
+      }
+    },
+    {
+      "name": "resourcefulness",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "spell_capacity",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "spell_capacity_bonus",
+      "type": "percent",
+      "range": {
+        "min": "2",
+        "max": "10"
+      }
+    },
+    {
+      "name": "spell_casting_speed",
+      "type": "percent",
+      "range": {
+        "min": "1",
+        "max": "4"
+      }
+    },
+    {
+      "name": "strength",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "true_magical_damage",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    {
+      "name": "true_physical_damage",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    {
+      "name": "weapon_damage",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    {
+      "name": "will",
+      "type": "number",
+      "range": {
+        "min": "1",
+        "max": "3"
+      }
+    }
+  ],
+  "item_constants": [
+    {
+      "arming_sword": {
+        "type": "sword",
+        "classes": ["fighter", "ranger", "bard"],
+        "damage": {
+          "uncommon": {
+            "min": 29,
+            "max": 31
+          },
+          "rare": {
+            "min": 31,
+            "max": 33
+          },
+          "epic": {
+            "min": 33,
+            "max": 35
+          },
+          "legendary": {
+            "min": 35,
+            "max": 37
+          },
+          "unique": {
+            "min": 37,
+            "max": 39
+          }
+        }
+      }
+    },
+    {
+      "falchion": {
+        "type": "sword",
+        "classes": ["fighter", "bard", "warlock"],
+        "damage": {
+          "uncommon": {
+            "min": 35,
+            "max": 37
+          },
+          "rare": {
+            "min": 37,
+            "max": 39
+          },
+          "epic": {
+            "min": 39,
+            "max": 42
+          },
+          "legendary": {
+            "min": 42,
+            "max": 45
+          },
+          "unique": {
+            "min": 45,
+            "max": 48
+          }
+        }
+      }
+    },
+    {
+      "longsword": {
+        "type": "sword",
+        "classes": ["fighter", "warlock"],
+        "damage": {
+          "uncommon": {
+            "min": 38,
+            "max": 41
+          },
+          "rare": {
+            "min": 41,
+            "max": 44
+          },
+          "epic": {
+            "min": 44,
+            "max": 47
+          },
+          "legendary": {
+            "min": 47,
+            "max": 50
+          },
+          "unique": {
+            "min": 50,
+            "max": 53
+          }
+        }
+      }
+    },
+    {
+      "rapier": {
+        "type": "sword",
+        "classes": ["ranger", "rogue", "bard"],
+        "damage": {
+          "uncommon": {
+            "min": 23,
+            "max": 24
+          },
+          "rare": {
+            "min": 24,
+            "max": 26
+          },
+          "epic": {
+            "min": 26,
+            "max": 28
+          },
+          "legendary": {
+            "min": 28,
+            "max": 30
+          },
+          "unique": {
+            "min": 30,
+            "max": 33
+          }
+        }
+      }
+    },
+    {
+      "short_sword": {
+        "type": "sword",
+        "classes": ["fighter", "rogue", "ranger", "bard"],
+        "damage": {
+          "uncommon": {
+            "min": 21,
+            "max": 23
+          },
+          "rare": {
+            "min": 23,
+            "max": 25
+          },
+          "epic": {
+            "min": 25,
+            "max": 27
+          },
+          "legendary": {
+            "min": 27,
+            "max": 29
+          },
+          "unique": {
+            "min": 29,
+            "max": 30
+          }
+        }
+      }
+    },
+    {
+      "viking_sword": {
+        "type": "sword",
+        "classes": ["fighter", "barbarian"],
+        "damage": {
+          "uncommon": {
+            "min": 33,
+            "max": 35
+          },
+          "rare": {
+            "min": 35,
+            "max": 37
+          },
+          "epic": {
+            "min": 37,
+            "max": 39
+          },
+          "legendary": {
+            "min": 39,
+            "max": 41
+          },
+          "unique": {
+            "min": 41,
+            "max": 43
+          }
+        }
+      }
+    },
+    {
+      "zweihander": {
+        "type": "sword",
+        "classes": ["fighter", "barbarian", "warlock"],
+        "damage": {
+          "uncommon": {
+            "min": 45,
+            "max": 48
+          },
+          "rare": {
+            "min": 48,
+            "max": 51
+          },
+          "epic": {
+            "min": 51,
+            "max": 54
+          },
+          "legendary": {
+            "min": 54,
+            "max": 58
+          },
+          "unique": {
+            "min": 58,
+            "max": 62
+          }
+        }
+      }
+    },
+    {
+      "flanged_mace": {
+        "type": "blunt",
+        "classes": ["fighter", "cleric"],
+        "damage": {
+          "uncommon": {
+            "min": 35,
+            "max": 37
+          },
+          "rare": {
+            "min": 37,
+            "max": 39
+          },
+          "epic": {
+            "min": 39,
+            "max": 42
+          },
+          "legendary": {
+            "min": 42,
+            "max": 45
+          },
+          "unique": {
+            "min": 45,
+            "max": 48
+          }
+        }
+      }
+    },
+    {
+      "morning_star": {
+        "type": "blunt",
+        "classes": ["cleric"],
+        "damage": {
+          "uncommon": {
+            "min": 37,
+            "max": 39
+          },
+          "rare": {
+            "min": 39,
+            "max": 42
+          },
+          "epic": {
+            "min": 42,
+            "max": 45
+          },
+          "legendary": {
+            "min": 45,
+            "max": 48
+          },
+          "unique": {
+            "min": 48,
+            "max": 51
+          }
+        }
+      }
+    },
+    {
+      "quarterstaff": {
+        "type": "blunt",
+        "classes": ["barbarian", "wizard", "cleric", "warlock"],
+        "damage": {
+          "uncommon": {
+            "min": 33,
+            "max": 35
+          },
+          "rare": {
+            "min": 35,
+            "max": 37
+          },
+          "epic": {
+            "min": 37,
+            "max": 39
+          },
+          "legendary": {
+            "min": 39,
+            "max": 42
+          },
+          "unique": {
+            "min": 42,
+            "max": 45
+          }
+        }
+      }
+    },
+    {
+      "war_maul": {
+        "type": "blunt",
+        "classes": ["barbarian", "cleric"],
+        "damage": {
+          "uncommon": {
+            "min": 58,
+            "max": 62
+          },
+          "rare": {
+            "min": 62,
+            "max": 66
+          },
+          "epic": {
+            "min": 66,
+            "max": 70
+          },
+          "legendary": {
+            "min": 70,
+            "max": 74
+          },
+          "unique": {
+            "min": 74,
+            "max": 78
+          }
+        }
+      }
+    },
+    {
+      "castillion_dagger": {
+        "type": "dagger",
+        "classes": ["rogue", "fighter", "bard"],
+        "damage": {
+          "uncommon": {
+            "min": 24,
+            "max": 26
+          },
+          "rare": {
+            "min": 26,
+            "max": 28
+          },
+          "epic": {
+            "min": 28,
+            "max": 30
+          },
+          "legendary": {
+            "min": 30,
+            "max": 32
+          },
+          "unique": {
+            "min": 32,
+            "max": 34
+          }
+        }
+      }
+    },
+    {
+      "kris_dagger": {
+        "type": "dagger",
+        "classes": ["rogue"],
+        "damage": {
+          "uncommon": {
+            "min": 25,
+            "max": 27
+          },
+          "rare": {
+            "min": 27,
+            "max": 29
+          },
+          "epic": {
+            "min": 29,
+            "max": 31
+          },
+          "legendary": {
+            "min": 31,
+            "max": 33
+          },
+          "unique": {
+            "min": 33,
+            "max": 35
+          }
+        }
+      }
+    },
+    {
+      "rondel_dagger": {
+        "type": "dagger",
+        "classes": ["wizard", "rogue", "bard"],
+        "damage": {
+          "uncommon": {
+            "min": 21,
+            "max": 23
+          },
+          "rare": {
+            "min": 23,
+            "max": 25
+          },
+          "epic": {
+            "min": 25,
+            "max": 27
+          },
+          "legendary": {
+            "min": 27,
+            "max": 29
+          },
+          "unique": {
+            "min": 29,
+            "max": 31
+          }
+        }
+      }
+    },
+    {
+      "stiletto_dagger": {
+        "type": "dagger",
+        "classes": ["rogue"],
+        "damage": {
+          "uncommon": {
+            "min": 20,
+            "max": 22
+          },
+          "rare": {
+            "min": 22,
+            "max": 24
+          },
+          "epic": {
+            "min": 24,
+            "max": 26
+          },
+          "legendary": {
+            "min": 26,
+            "max": 28
+          },
+          "unique": {
+            "min": 28,
+            "max": 30
+          }
+        }
+      }
+    },
+    {
+      "bardiche": {
+        "type": "polearm",
+        "classes": ["barbarian", "warlock"],
+        "damage": {
+          "uncommon": {
+            "min": 51,
+            "max": 54
+          },
+          "rare": {
+            "min": 54,
+            "max": 58
+          },
+          "epic": {
+            "min": 58,
+            "max": 62
+          },
+          "legendary": {
+            "min": 62,
+            "max": 66
+          },
+          "unique": {
+            "min": 66,
+            "max": 70
+          }
+        }
+      }
+    },
+    {
+      "halberd": {
+        "type": "polearm",
+        "classes": ["fighter", "warlock"],
+        "damage": {
+          "uncommon": {
+            "min": 50,
+            "max": 53
+          },
+          "rare": {
+            "min": 53,
+            "max": 56
+          },
+          "epic": {
+            "min": 56,
+            "max": 60
+          },
+          "legendary": {
+            "min": 60,
+            "max": 64
+          },
+          "unique": {
+            "min": 64,
+            "max": 69
+          }
+        }
+      }
+    },
+    {
+      "spear": {
+        "type": "polearm",
+        "classes": ["fighter", "ranger"],
+        "damage": {
+          "uncommon": {
+            "min": 38,
+            "max": 41
+          },
+          "rare": {
+            "min": 41,
+            "max": 44
+          },
+          "epic": {
+            "min": 44,
+            "max": 47
+          },
+          "legendary": {
+            "min": 47,
+            "max": 50
+          },
+          "unique": {
+            "min": 50,
+            "max": 53
+          }
+        }
+      }
+    },
+    {
+      "battle_axe": {
+        "type": "axe",
+        "classes": ["fighter", "barbarian"],
+        "damage": {
+          "uncommon": {
+            "min": 46,
+            "max": 49
+          },
+          "rare": {
+            "min": 49,
+            "max": 52
+          },
+          "epic": {
+            "min": 52,
+            "max": 55
+          },
+          "legendary": {
+            "min": 55,
+            "max": 58
+          },
+          "unique": {
+            "min": 58,
+            "max": 62
+          }
+        }
+      }
+    },
+    {
+      "double_axe": {
+        "type": "axe",
+        "classes": ["barbarian"],
+        "damage": {
+          "uncommon": {
+            "min": 53,
+            "max": 57
+          },
+          "rare": {
+            "min": 53,
+            "max": 56
+          },
+          "epic": {
+            "min": 56,
+            "max": 60
+          },
+          "legendary": {
+            "min": 60,
+            "max": 64
+          },
+          "unique": {
+            "min": 64,
+            "max": 69
+          }
+        }
+      }
+    },
+    {
+      "felling_axe": {
+        "type": "axe",
+        "classes": ["barbarian"],
+        "damage": {
+          "uncommon": {
+            "min": 45,
+            "max": 48
+          },
+          "rare": {
+            "min": 48,
+            "max": 51
+          },
+          "epic": {
+            "min": 51,
+            "max": 54
+          },
+          "legendary": {
+            "min": 54,
+            "max": 57
+          },
+          "unique": {
+            "min": 57,
+            "max": 60
+          }
+        }
+      }
+    },
+    {
+      "hatchet": {
+        "type": "axe",
+        "classes": ["fighter", "barbarian"],
+        "damage": {
+          "uncommon": {
+            "min": 22,
+            "max": 24
+          },
+          "rare": {
+            "min": 24,
+            "max": 26
+          },
+          "epic": {
+            "min": 26,
+            "max": 27
+          },
+          "legendary": {
+            "min": 27,
+            "max": 29
+          },
+          "unique": {
+            "min": 29,
+            "max": 31
+          }
+        }
+      }
+    },
+    {
+      "horsemans_axe": {
+        "type": "axe",
+        "classes": ["fighter", "barbarian"],
+        "damage": {
+          "uncommon": {
+            "min": 25,
+            "max": 27
+          },
+          "rare": {
+            "min": 27,
+            "max": 29
+          },
+          "epic": {
+            "min": 29,
+            "max": 31
+          },
+          "legendary": {
+            "min": 31,
+            "max": 33
+          },
+          "unique": {
+            "min": 33,
+            "max": 36
+          }
+        }
+      }
+    },
+
+    {
+      "longbow": {
+        "type": "bow",
+        "classes": ["ranger"],
+        "damage": {
+          "uncommon": {
+            "min": 41,
+            "max": 44
+          },
+          "rare": {
+            "min": 44,
+            "max": 47
+          },
+          "epic": {
+            "min": 47,
+            "max": 50
+          },
+          "legendary": {
+            "min": 50,
+            "max": 52
+          },
+          "unique": {
+            "min": 52,
+            "max": 54
+          }
+        }
+      }
+    },
+    {
+      "recurve_bow": {
+        "type": "bow",
+        "classes": ["ranger"],
+        "damage": {
+          "uncommon": {
+            "min": 33,
+            "max": 35
+          },
+          "rare": {
+            "min": 35,
+            "max": 37
+          },
+          "epic": {
+            "min": 37,
+            "max": 39
+          },
+          "legendary": {
+            "min": 39,
+            "max": 42
+          },
+          "unique": {
+            "min": 42,
+            "max": 45
+          }
+        }
+      }
+    },
+    {
+      "survival_bow": {
+        "type": "bow",
+        "classes": ["ranger", "bard"],
+        "damage": {
+          "uncommon": {
+            "min": 18,
+            "max": 20
+          },
+          "rare": {
+            "min": 20,
+            "max": 22
+          },
+          "epic": {
+            "min": 22,
+            "max": 24
+          },
+          "legendary": {
+            "min": 24,
+            "max": 26
+          },
+          "unique": {
+            "min": 26,
+            "max": 27
+          }
+        }
+      }
+    },
+    {
+      "crossbow": {
+        "type": "crossbow",
+        "classes": ["fighter", "ranger", "wizard", "bard"],
+        "damage": {
+          "uncommon": {
+            "min": 49,
+            "max": 53
+          },
+          "rare": {
+            "min": 53,
+            "max": 57
+          },
+          "epic": {
+            "min": 57,
+            "max": 60
+          },
+          "legendary": {
+            "min": 60,
+            "max": 63
+          },
+          "unique": {
+            "min": 63,
+            "max": 66
+          }
+        }
+      }
+    },
+    {
+      "hand_crossbow": {
+        "type": "crossbow",
+        "classes": ["ranger", "bard"],
+        "damage": {
+          "uncommon": {
+            "min": 23,
+            "max": 25
+          },
+          "rare": {
+            "min": 25,
+            "max": 27
+          },
+          "epic": {
+            "min": 27,
+            "max": 28
+          },
+          "legendary": {
+            "min": 28,
+            "max": 29
+          },
+          "unique": {
+            "min": 29,
+            "max": 30
+          }
+        }
+      }
+    },
+    {
+      "windlass_crossbow": {
+        "type": "crossbow",
+        "classes": ["ranger"],
+        "damage": {
+          "uncommon": {
+            "min": 57,
+            "max": 61
+          },
+          "rare": {
+            "min": 61,
+            "max": 65
+          },
+          "epic": {
+            "min": 65,
+            "max": 69
+          },
+          "legendary": {
+            "min": 69,
+            "max": 73
+          },
+          "unique": {
+            "min": 73,
+            "max": 77
+          }
+        }
+      }
+    },
+    {
+      "crystal_ball": {
+        "type": "magic_weapon",
+        "classes": ["wizard", "warlock"],
+        "magic_damage": {
+          "uncommon": 4,
+          "rare": 5,
+          "epic": 6,
+          "legendary": 7,
+          "unique": 8
+        }
+      }
+    },
+    {
+      "crystal_sword": {
+        "type": "magic_weapon",
+        "classes": ["wizard", "warlock"],
+        "damage": {
+          "uncommon": {
+            "min": 13,
+            "max": 14
+          },
+          "rare": {
+            "min": 15,
+            "max": 16
+          },
+          "epic": {
+            "min": 17,
+            "max": 18
+          },
+          "legendary": {
+            "min": 19,
+            "max": 20
+          },
+          "unique": {
+            "min": 21,
+            "max": 22
+          }
+        },
+        "magic_weapon_damage": {
+          "uncommon": {
+            "min": 11,
+            "max": 13
+          },
+          "rare": {
+            "min": 13,
+            "max": 15
+          },
+          "epic": {
+            "min": 15,
+            "max": 17
+          },
+          "legendary": {
+            "min": 17,
+            "max": 19
+          },
+          "unique": {
+            "min": 19,
+            "max": 21
+          }
+        }
+      }
+    },
+    {
+      "magic_staff": {
+        "type": "magic_weapon",
+        "classes": ["wizard", "cleric", "warlock"],
+        "damage": {
+          "uncommon": {
+            "min": 30,
+            "max": 32
+          },
+          "rare": {
+            "min": 32,
+            "max": 34
+          },
+          "epic": {
+            "min": 34,
+            "max": 36
+          },
+          "legendary": {
+            "min": 36,
+            "max": 38
+          },
+          "unique": {
+            "min": 38,
+            "max": 40
+          }
+        },
+        "magic_damage": {
+          "uncommon": 8,
+          "rare": 9,
+          "epic": 10,
+          "legendary": 11,
+          "unique": 12
+        }
+      }
+    },
+    {
+      "spellbook": {
+        "type": "magic_weapon",
+        "classes": ["wizard", "cleric", "warlock"],
+        "magic_damage": {
+          "uncommon": 4,
+          "rare": 5,
+          "epic": 6,
+          "legendary": 7,
+          "unique": 8
+        }
+      }
+    },
+
+    {
+      "drum": {
+        "type": "instrument",
+        "classes": ["bard"],
+        "damage": {
+          "uncommon": {
+            "min": 29,
+            "max": 32
+          },
+          "rare": {
+            "min": 32,
+            "max": 35
+          },
+          "epic": {
+            "min": 35,
+            "max": 38
+          },
+          "legendary": {
+            "min": 38,
+            "max": 40
+          },
+          "unique": {
+            "min": 40,
+            "max": 42
+          }
+        }
+      }
+    },
+    {
+      "flute": {
+        "type": "instrument",
+        "classes": ["bard"],
+        "damage": {
+          "uncommon": {
+            "min": 20,
+            "max": 22
+          },
+          "rare": {
+            "min": 22,
+            "max": 24
+          },
+          "epic": {
+            "min": 24,
+            "max": 26
+          },
+          "legendary": {
+            "min": 26,
+            "max": 28
+          },
+          "unique": {
+            "min": 2829,
+            "max": 30
+          }
+        }
+      }
+    },
+    {
+      "lute": {
+        "type": "instrument",
+        "classes": ["bard"],
+        "damage": {
+          "uncommon": {
+            "min": 22,
+            "max": 24
+          },
+          "rare": {
+            "min": 24,
+            "max": 27
+          },
+          "epic": {
+            "min": 27,
+            "max": 30
+          },
+          "legendary": {
+            "min": 30,
+            "max": 33
+          },
+          "unique": {
+            "min": 33,
+            "max": 35
+          }
+        }
+      }
+    }
+  ]
+}
