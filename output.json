@@ -1,0 +1,1507 @@
+[
+  {
+    "id": "fa9eb959-0677-4a3e-8804-da0909aeef7f",
+    "updatedAt": 1697820126337,
+    "itemType": "flanged_mace",
+    "classes": ["fighter", "cleric"],
+    "quality": "legendary",
+    "weaponDamage": 44,
+    "enchantments": [
+      { "name": "additional_physical_damage", "type": "number", "value": 1 },
+      { "name": "spell_casting_speed", "type": "percent", "value": "0.03" },
+      { "name": "true_physical_damage", "type": "number", "value": 1 },
+      { "name": "physical_healing", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126337, "amount": 1350 }]
+  },
+  {
+    "id": "f5b692a1-994c-4bb9-97f8-79867cdf67b8",
+    "updatedAt": 1697820126338,
+    "itemType": "castillion_dagger",
+    "classes": ["rogue", "fighter", "bard"],
+    "quality": "rare",
+    "weaponDamage": 27,
+    "enchantments": [
+      { "name": "true_magical_damage", "type": "number", "value": 1 },
+      { "name": "magic_resistance", "type": "number", "value": 9 }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 1550 }]
+  },
+  {
+    "id": "e9f5684a-b0d1-48a0-bbd0-b0b50f909230",
+    "updatedAt": 1697820126338,
+    "itemType": "crystal_ball",
+    "classes": ["wizard", "warlock"],
+    "quality": "uncommon",
+    "magicDamage": 4,
+    "enchantments": [
+      { "name": "buff_duration_bonus", "type": "percent", "value": "0.48" }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 1600 }]
+  },
+  {
+    "id": "dbb44750-7a70-41dc-a404-69c2154e8677",
+    "updatedAt": 1697820126338,
+    "itemType": "rondel_dagger",
+    "classes": ["wizard", "rogue", "bard"],
+    "quality": "rare",
+    "weaponDamage": 23,
+    "enchantments": [
+      { "name": "physical_power", "type": "number", "value": 2 },
+      { "name": "item_equip_speed", "type": "percent", "value": "2.76" }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 100 }]
+  },
+  {
+    "id": "249b8d9e-9d39-4eea-adb9-35ddff6e7535",
+    "updatedAt": 1697820126338,
+    "itemType": "flute",
+    "classes": ["bard"],
+    "quality": "legendary",
+    "weaponDamage": 28,
+    "enchantments": [
+      { "name": "spell_casting_speed", "type": "percent", "value": "1.15" },
+      { "name": "armor_rating", "type": "number", "value": 8 },
+      { "name": "weapon_damage", "type": "number", "value": 2 },
+      { "name": "spell_capacity_bonus", "type": "percent", "value": "1.20" }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 1250 }]
+  },
+  {
+    "id": "61bc5341-5e69-449d-aeac-f495ca2587b0",
+    "updatedAt": 1697820126338,
+    "itemType": "drum",
+    "classes": ["bard"],
+    "quality": "uncommon",
+    "weaponDamage": 30,
+    "enchantments": [
+      { "name": "magic_penetration", "type": "percent", "value": "1.85" }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 2000 }]
+  },
+  {
+    "id": "2a0157b3-57d8-481c-8cf6-e9e8cbedf152",
+    "updatedAt": 1697820126338,
+    "itemType": "windlass_crossbow",
+    "classes": ["ranger"],
+    "quality": "legendary",
+    "weaponDamage": 69,
+    "enchantments": [
+      { "name": "action_speed", "type": "percent", "value": "2.17" },
+      { "name": "physical_power", "type": "number", "value": 1 },
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "1.66" },
+      { "name": "max_health_bonus", "type": "percent", "value": "1.80" }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 1200 }]
+  },
+  {
+    "id": "8259734d-23a2-47da-98bf-4516be845c31",
+    "updatedAt": 1697820126338,
+    "itemType": "magic_staff",
+    "classes": ["wizard", "cleric", "warlock"],
+    "quality": "uncommon",
+    "weaponDamage": 32,
+    "magicDamage": 8,
+    "enchantments": [
+      {
+        "name": "projectile_damage_reduction",
+        "type": "percent",
+        "value": "0.54"
+      }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 100 }]
+  },
+  {
+    "id": "db66080b-3728-45c6-8054-97ee8ec29269",
+    "updatedAt": 1697820126338,
+    "itemType": "flanged_mace",
+    "classes": ["fighter", "cleric"],
+    "quality": "uncommon",
+    "weaponDamage": 37,
+    "enchantments": [
+      { "name": "magical_damage_reduction", "type": "percent", "value": "0.41" }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 1200 }]
+  },
+  {
+    "id": "8622aeec-9b6b-458e-9c94-b5f5388ee360",
+    "updatedAt": 1697820126338,
+    "itemType": "magic_staff",
+    "classes": ["wizard", "cleric", "warlock"],
+    "quality": "rare",
+    "weaponDamage": 32,
+    "magicDamage": 9,
+    "enchantments": [
+      { "name": "true_magical_damage", "type": "number", "value": 1 },
+      { "name": "item_equip_speed", "type": "percent", "value": "0.31" }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 150 }]
+  },
+  {
+    "id": "d867cc59-5345-4d9d-be10-921bd6259fc4",
+    "updatedAt": 1697820126338,
+    "itemType": "spellbook",
+    "classes": ["wizard", "cleric", "warlock"],
+    "quality": "uncommon",
+    "magicDamage": 4,
+    "enchantments": [
+      {
+        "name": "magical_interaction_speed",
+        "type": "percent",
+        "value": "0.52"
+      }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 100 }]
+  },
+  {
+    "id": "4abef051-7398-47be-b6f9-9b6e7af15b4f",
+    "updatedAt": 1697820126338,
+    "itemType": "drum",
+    "classes": ["bard"],
+    "quality": "unique",
+    "weaponDamage": 40,
+    "enchantments": [
+      { "name": "magical_damage_bonus", "type": "percent", "value": "3.57" },
+      { "name": "true_magical_damage", "type": "number", "value": 2 },
+      { "name": "max_health_bonus", "type": "percent", "value": "1.25" },
+      { "name": "additional_physical_damage", "type": "number", "value": 1 },
+      { "name": "weapon_damage", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126338, "amount": 400 }]
+  },
+  {
+    "id": "d34b2368-2e76-442b-86c8-7818d4c7f939",
+    "updatedAt": 1697820126339,
+    "itemType": "spear",
+    "classes": ["fighter", "ranger"],
+    "quality": "legendary",
+    "weaponDamage": 50,
+    "enchantments": [
+      { "name": "magical_healing", "type": "number", "value": 3 },
+      { "name": "buff_duration_bonus", "type": "percent", "value": "1.37" },
+      {
+        "name": "magical_interaction_speed",
+        "type": "percent",
+        "value": "1.17"
+      },
+      { "name": "magical_damage_bonus", "type": "percent", "value": "3.01" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 750 }]
+  },
+  {
+    "id": "ef41451e-2b4c-47fb-a430-9aacc4dabe24",
+    "updatedAt": 1697820126339,
+    "itemType": "recurve_bow",
+    "classes": ["ranger"],
+    "quality": "rare",
+    "weaponDamage": 37,
+    "enchantments": [
+      { "name": "magic_resistance", "type": "number", "value": 13 },
+      { "name": "additional_magic_damage", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 200 }]
+  },
+  {
+    "id": "8d5d4bbe-5030-433e-8d89-b5fadf9c3b3c",
+    "updatedAt": 1697820126339,
+    "itemType": "survival_bow",
+    "classes": ["ranger", "bard"],
+    "quality": "epic",
+    "weaponDamage": 23,
+    "enchantments": [
+      { "name": "armor_penetration", "type": "percent", "value": "1.07" },
+      { "name": "move_speed", "type": "number", "value": 2 },
+      { "name": "knowledge", "type": "number", "value": 2 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1750 }]
+  },
+  {
+    "id": "a429e7d5-982c-494d-9a80-fa58147d7453",
+    "updatedAt": 1697820126339,
+    "itemType": "lute",
+    "classes": ["bard"],
+    "quality": "rare",
+    "weaponDamage": 25,
+    "enchantments": [
+      { "name": "magical_damage_bonus", "type": "percent", "value": "1.15" },
+      { "name": "spell_capacity", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1150 }]
+  },
+  {
+    "id": "da48ebb0-beec-45dd-9328-7abd2c84606b",
+    "updatedAt": 1697820126339,
+    "itemType": "morning_star",
+    "classes": ["cleric"],
+    "quality": "epic",
+    "weaponDamage": 45,
+    "enchantments": [
+      { "name": "max_health_bonus", "type": "percent", "value": "0.24" },
+      { "name": "will", "type": "number", "value": 3 },
+      { "name": "magical_damage_reduction", "type": "percent", "value": "2.38" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1700 }]
+  },
+  {
+    "id": "e6904b59-26de-4720-a665-c02271ee2f5b",
+    "updatedAt": 1697820126339,
+    "itemType": "crossbow",
+    "classes": ["fighter", "ranger", "wizard", "bard"],
+    "quality": "rare",
+    "weaponDamage": 54,
+    "enchantments": [
+      {
+        "name": "physical_damage_reduction",
+        "type": "percent",
+        "value": "1.00"
+      },
+      { "name": "magic_resistance", "type": "number", "value": 7 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 800 }]
+  },
+  {
+    "id": "9c015ddc-1fd4-433a-a58a-2239d3df2236",
+    "updatedAt": 1697820126339,
+    "itemType": "drum",
+    "classes": ["bard"],
+    "quality": "rare",
+    "weaponDamage": 32,
+    "enchantments": [
+      { "name": "max_health_bonus", "type": "percent", "value": "1.91" },
+      { "name": "max_health", "type": "number", "value": 5 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1250 }]
+  },
+  {
+    "id": "543434d8-73be-42c8-975e-da79a7dbf27c",
+    "updatedAt": 1697820126339,
+    "itemType": "stiletto_dagger",
+    "classes": ["rogue"],
+    "quality": "unique",
+    "weaponDamage": 28,
+    "enchantments": [
+      { "name": "additional_physical_damage", "type": "number", "value": 3 },
+      { "name": "agility", "type": "number", "value": 2 },
+      { "name": "magic_resistance", "type": "number", "value": 14 },
+      { "name": "magical_power", "type": "number", "value": 3 },
+      { "name": "spell_capacity", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1300 }]
+  },
+  {
+    "id": "c86f7d75-804d-4031-b4de-58f0f4b416fe",
+    "updatedAt": 1697820126339,
+    "itemType": "crossbow",
+    "classes": ["fighter", "ranger", "wizard", "bard"],
+    "quality": "rare",
+    "weaponDamage": 53,
+    "enchantments": [
+      { "name": "true_magical_damage", "type": "number", "value": 1 },
+      { "name": "spell_capacity", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1550 }]
+  },
+  {
+    "id": "11830d4d-8a2e-4677-a6c1-08d2e8aea910",
+    "updatedAt": 1697820126339,
+    "itemType": "rapier",
+    "classes": ["ranger", "rogue", "bard"],
+    "quality": "uncommon",
+    "weaponDamage": 24,
+    "enchantments": [
+      { "name": "magical_damage_bonus", "type": "percent", "value": "0.61" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1800 }]
+  },
+  {
+    "id": "699f4876-6bee-4cb5-82f6-f8df8ff2bd22",
+    "updatedAt": 1697820126339,
+    "itemType": "double_axe",
+    "classes": ["barbarian"],
+    "quality": "unique",
+    "weaponDamage": 67,
+    "enchantments": [
+      { "name": "agility", "type": "number", "value": 1 },
+      { "name": "move_speed_bonus", "type": "percent", "value": "0.18" },
+      { "name": "action_speed", "type": "percent", "value": "2.65" },
+      { "name": "physical_healing", "type": "number", "value": 1 },
+      { "name": "physical_power", "type": "number", "value": 2 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1600 }]
+  },
+  {
+    "id": "ce322c9c-0b8f-4494-ba66-0fe7ed1049dd",
+    "updatedAt": 1697820126339,
+    "itemType": "kris_dagger",
+    "classes": ["rogue"],
+    "quality": "rare",
+    "weaponDamage": 29,
+    "enchantments": [
+      { "name": "will", "type": "number", "value": 2 },
+      { "name": "strength", "type": "number", "value": 2 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1000 }]
+  },
+  {
+    "id": "988d1b74-3abd-486a-9eaa-4a54c2853353",
+    "updatedAt": 1697820126339,
+    "itemType": "kris_dagger",
+    "classes": ["rogue"],
+    "quality": "rare",
+    "weaponDamage": 27,
+    "enchantments": [
+      { "name": "magical_healing", "type": "number", "value": 2 },
+      { "name": "armor_rating", "type": "number", "value": 9 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1950 }]
+  },
+  {
+    "id": "6babf6a0-8e19-4428-a3fa-8282fa09e4a5",
+    "updatedAt": 1697820126339,
+    "itemType": "bardiche",
+    "classes": ["barbarian", "warlock"],
+    "quality": "legendary",
+    "weaponDamage": 66,
+    "enchantments": [
+      { "name": "weapon_damage", "type": "number", "value": 3 },
+      { "name": "true_physical_damage", "type": "number", "value": 2 },
+      { "name": "knowledge", "type": "number", "value": 1 },
+      { "name": "magical_damage_bonus", "type": "percent", "value": "1.99" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1800 }]
+  },
+  {
+    "id": "45e40cb6-b774-4040-8d5e-5a48405c4583",
+    "updatedAt": 1697820126339,
+    "itemType": "flute",
+    "classes": ["bard"],
+    "quality": "legendary",
+    "weaponDamage": 26,
+    "enchantments": [
+      { "name": "magical_healing", "type": "number", "value": 2 },
+      { "name": "buff_duration_bonus", "type": "percent", "value": "1.75" },
+      {
+        "name": "projectile_damage_reduction",
+        "type": "percent",
+        "value": "1.95"
+      },
+      { "name": "move_speed", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1500 }]
+  },
+  {
+    "id": "ecfbf3bf-e5fe-41a6-8893-240a9b434bf6",
+    "updatedAt": 1697820126339,
+    "itemType": "morning_star",
+    "classes": ["cleric"],
+    "quality": "legendary",
+    "weaponDamage": 47,
+    "enchantments": [
+      { "name": "physical_power", "type": "number", "value": 2 },
+      { "name": "max_health", "type": "number", "value": 4 },
+      { "name": "additional_magic_damage", "type": "number", "value": 1 },
+      { "name": "weapon_damage", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1300 }]
+  },
+  {
+    "id": "08eefe60-fb23-4a2f-895d-e2074a2c33c3",
+    "updatedAt": 1697820126339,
+    "itemType": "quarterstaff",
+    "classes": ["barbarian", "wizard", "cleric", "warlock"],
+    "quality": "legendary",
+    "weaponDamage": 40,
+    "enchantments": [
+      { "name": "action_speed", "type": "percent", "value": "3.37" },
+      { "name": "true_magical_damage", "type": "number", "value": 1 },
+      { "name": "move_speed", "type": "number", "value": 2 },
+      {
+        "name": "physical_damage_reduction",
+        "type": "percent",
+        "value": "1.31"
+      }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1000 }]
+  },
+  {
+    "id": "0611b464-fb6a-40cc-8637-0caf8e74a2d9",
+    "updatedAt": 1697820126339,
+    "itemType": "spear",
+    "classes": ["fighter", "ranger"],
+    "quality": "epic",
+    "weaponDamage": 47,
+    "enchantments": [
+      { "name": "action_speed", "type": "percent", "value": "0.17" },
+      { "name": "resourcefulness", "type": "number", "value": 3 },
+      { "name": "physical_healing", "type": "number", "value": 2 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 300 }]
+  },
+  {
+    "id": "0845569d-a413-4560-aa7d-1ea003ec7dc0",
+    "updatedAt": 1697820126339,
+    "itemType": "longbow",
+    "classes": ["ranger"],
+    "quality": "epic",
+    "weaponDamage": 47,
+    "enchantments": [
+      { "name": "spell_capacity", "type": "number", "value": 3 },
+      {
+        "name": "physical_damage_reduction",
+        "type": "percent",
+        "value": "0.57"
+      },
+      { "name": "max_health_bonus", "type": "percent", "value": "0.47" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1750 }]
+  },
+  {
+    "id": "397710d7-813c-42b8-93bd-d8faf5a7ce35",
+    "updatedAt": 1697820126339,
+    "itemType": "battle_axe",
+    "classes": ["fighter", "barbarian"],
+    "quality": "uncommon",
+    "weaponDamage": 49,
+    "enchantments": [{ "name": "weapon_damage", "type": "number", "value": 2 }],
+    "offers": [{ "timestamp": 1697820126339, "amount": 100 }]
+  },
+  {
+    "id": "df48b9fa-84ca-4ed9-9fd0-cc4ce5c6f1f0",
+    "updatedAt": 1697820126339,
+    "itemType": "crystal_ball",
+    "classes": ["wizard", "warlock"],
+    "quality": "rare",
+    "magicDamage": 5,
+    "enchantments": [
+      { "name": "knowledge", "type": "number", "value": 3 },
+      { "name": "max_health_bonus", "type": "percent", "value": "1.52" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1400 }]
+  },
+  {
+    "id": "f69cae83-2303-4a8a-8faa-f3d381f43577",
+    "updatedAt": 1697820126339,
+    "itemType": "morning_star",
+    "classes": ["cleric"],
+    "quality": "rare",
+    "weaponDamage": 42,
+    "enchantments": [
+      { "name": "move_speed", "type": "number", "value": 4 },
+      { "name": "magic_penetration", "type": "percent", "value": "1.88" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 900 }]
+  },
+  {
+    "id": "d33c225e-ccae-44f6-a13e-1115baf36017",
+    "updatedAt": 1697820126339,
+    "itemType": "felling_axe",
+    "classes": ["barbarian"],
+    "quality": "epic",
+    "weaponDamage": 53,
+    "enchantments": [
+      { "name": "additional_physical_damage", "type": "number", "value": 1 },
+      { "name": "spell_capacity_bonus", "type": "percent", "value": "5.20" },
+      { "name": "resourcefulness", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1000 }]
+  },
+  {
+    "id": "85e4ed1a-85ed-427a-89ac-c7a5a5edc4b9",
+    "updatedAt": 1697820126339,
+    "itemType": "falchion",
+    "classes": ["fighter", "bard", "warlock"],
+    "quality": "unique",
+    "weaponDamage": 45,
+    "enchantments": [
+      { "name": "knowledge", "type": "number", "value": 2 },
+      { "name": "spell_casting_speed", "type": "percent", "value": "0.69" },
+      {
+        "name": "regular_interaction_speed",
+        "type": "percent",
+        "value": "2.11"
+      },
+      { "name": "additional_magic_damage", "type": "number", "value": 3 },
+      {
+        "name": "magical_interaction_speed",
+        "type": "percent",
+        "value": "2.44"
+      }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1450 }]
+  },
+  {
+    "id": "dfcab4b3-6137-4841-aa21-f6284942d010",
+    "updatedAt": 1697820126339,
+    "itemType": "battle_axe",
+    "classes": ["fighter", "barbarian"],
+    "quality": "rare",
+    "weaponDamage": 49,
+    "enchantments": [
+      { "name": "action_speed", "type": "percent", "value": "3.96" },
+      { "name": "max_health_bonus", "type": "percent", "value": "0.20" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1750 }]
+  },
+  {
+    "id": "be89a062-b6e5-46e4-80cc-bf7b33eb89fc",
+    "updatedAt": 1697820126339,
+    "itemType": "horsemans_axe",
+    "classes": ["fighter", "barbarian"],
+    "quality": "legendary",
+    "weaponDamage": 33,
+    "enchantments": [
+      { "name": "resourcefulness", "type": "number", "value": 2 },
+      { "name": "magical_damage_bonus", "type": "percent", "value": "1.27" },
+      {
+        "name": "regular_interaction_speed",
+        "type": "percent",
+        "value": "2.34"
+      },
+      { "name": "physical_healing", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1400 }]
+  },
+  {
+    "id": "51eee9d9-c4e1-4e28-a550-2b4a3c372893",
+    "updatedAt": 1697820126339,
+    "itemType": "recurve_bow",
+    "classes": ["ranger"],
+    "quality": "rare",
+    "weaponDamage": 35,
+    "enchantments": [
+      { "name": "magical_damage_bonus", "type": "percent", "value": "3.42" },
+      { "name": "item_equip_speed", "type": "percent", "value": "2.23" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1300 }]
+  },
+  {
+    "id": "197ca887-f8a1-4fa3-b227-14b9a4a06d4e",
+    "updatedAt": 1697820126339,
+    "itemType": "hatchet",
+    "classes": ["fighter", "barbarian"],
+    "quality": "legendary",
+    "weaponDamage": 28,
+    "enchantments": [
+      {
+        "name": "projectile_damage_reduction",
+        "type": "percent",
+        "value": "0.17"
+      },
+      { "name": "max_health_bonus", "type": "percent", "value": "1.99" },
+      { "name": "magical_healing", "type": "number", "value": 2 },
+      { "name": "additional_physical_damage", "type": "number", "value": 2 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 550 }]
+  },
+  {
+    "id": "3d44c384-ecba-42e1-9c58-b5b09f49a398",
+    "updatedAt": 1697820126339,
+    "itemType": "spellbook",
+    "classes": ["wizard", "cleric", "warlock"],
+    "quality": "epic",
+    "magicDamage": 6,
+    "enchantments": [
+      { "name": "physical_damage_bonus", "type": "percent", "value": "0.38" },
+      { "name": "additional_physical_damage", "type": "number", "value": 1 },
+      { "name": "strength", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 800 }]
+  },
+  {
+    "id": "e86ffb1d-7cc5-41e0-8148-b8f4b595cc63",
+    "updatedAt": 1697820126339,
+    "itemType": "viking_sword",
+    "classes": ["fighter", "barbarian"],
+    "quality": "uncommon",
+    "weaponDamage": 33,
+    "enchantments": [{ "name": "armor_rating", "type": "number", "value": 13 }],
+    "offers": [{ "timestamp": 1697820126339, "amount": 700 }]
+  },
+  {
+    "id": "68210f41-22cb-414f-a1f8-7288a6cfd99a",
+    "updatedAt": 1697820126339,
+    "itemType": "spellbook",
+    "classes": ["wizard", "cleric", "warlock"],
+    "quality": "unique",
+    "magicDamage": 8,
+    "enchantments": [
+      {
+        "name": "magical_interaction_speed",
+        "type": "percent",
+        "value": "2.52"
+      },
+      { "name": "buff_duration_bonus", "type": "percent", "value": "3.33" },
+      { "name": "spell_capacity_bonus", "type": "percent", "value": "3.60" },
+      { "name": "armor_rating", "type": "number", "value": 9 },
+      {
+        "name": "regular_interaction_speed",
+        "type": "percent",
+        "value": "1.87"
+      }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 500 }]
+  },
+  {
+    "id": "6497b88c-e4be-48e3-9254-a7bfaf70a32c",
+    "updatedAt": 1697820126339,
+    "itemType": "crystal_ball",
+    "classes": ["wizard", "warlock"],
+    "quality": "unique",
+    "magicDamage": 8,
+    "enchantments": [
+      { "name": "buff_duration_bonus", "type": "percent", "value": "1.52" },
+      { "name": "magic_penetration", "type": "percent", "value": "1.68" },
+      { "name": "magical_healing", "type": "number", "value": 2 },
+      { "name": "max_health_bonus", "type": "percent", "value": "1.88" },
+      { "name": "magical_damage_bonus", "type": "percent", "value": "1.68" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1100 }]
+  },
+  {
+    "id": "b0b8ac16-ca12-4e16-9147-6075694dcbd8",
+    "updatedAt": 1697820126339,
+    "itemType": "kris_dagger",
+    "classes": ["rogue"],
+    "quality": "legendary",
+    "weaponDamage": 33,
+    "enchantments": [
+      { "name": "spell_capacity_bonus", "type": "percent", "value": "4.00" },
+      {
+        "name": "magical_damage_reduction",
+        "type": "percent",
+        "value": "1.04"
+      },
+      { "name": "magical_healing", "type": "number", "value": 3 },
+      { "name": "spell_capacity", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1000 }]
+  },
+  {
+    "id": "419849c9-6882-4195-ad15-f768eee6f8e0",
+    "updatedAt": 1697820126339,
+    "itemType": "viking_sword",
+    "classes": ["fighter", "barbarian"],
+    "quality": "uncommon",
+    "weaponDamage": 35,
+    "enchantments": [
+      { "name": "additional_physical_damage", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 600 }]
+  },
+  {
+    "id": "25cdaf99-6d9a-4296-958a-43628212bb48",
+    "updatedAt": 1697820126339,
+    "itemType": "crossbow",
+    "classes": ["fighter", "ranger", "wizard", "bard"],
+    "quality": "unique",
+    "weaponDamage": 63,
+    "enchantments": [
+      { "name": "max_health_bonus", "type": "percent", "value": "1.10" },
+      {
+        "name": "projectile_damage_reduction",
+        "type": "percent",
+        "value": "2.84"
+      },
+      { "name": "true_magical_damage", "type": "number", "value": 2 },
+      { "name": "magic_resistance", "type": "number", "value": 13 },
+      { "name": "additional_physical_damage", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1600 }]
+  },
+  {
+    "id": "6481683c-6a9f-42ac-8204-b98b4b8b3a4e",
+    "updatedAt": 1697820126339,
+    "itemType": "morning_star",
+    "classes": ["cleric"],
+    "quality": "rare",
+    "weaponDamage": 39,
+    "enchantments": [
+      { "name": "will", "type": "number", "value": 2 },
+      { "name": "additional_magic_damage", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1450 }]
+  },
+  {
+    "id": "e725442c-447d-49ee-a036-671f033ba418",
+    "updatedAt": 1697820126339,
+    "itemType": "crossbow",
+    "classes": ["fighter", "ranger", "wizard", "bard"],
+    "quality": "legendary",
+    "weaponDamage": 62,
+    "enchantments": [
+      { "name": "spell_casting_speed", "type": "percent", "value": "1.73" },
+      { "name": "move_speed_bonus", "type": "percent", "value": "0.95" },
+      { "name": "physical_damage_bonus", "type": "percent", "value": "2.07" },
+      { "name": "agility", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 300 }]
+  },
+  {
+    "id": "c3583bb8-8986-4396-b286-0b33a11d1856",
+    "updatedAt": 1697820126339,
+    "itemType": "crystal_ball",
+    "classes": ["wizard", "warlock"],
+    "quality": "uncommon",
+    "magicDamage": 4,
+    "enchantments": [
+      { "name": "physical_healing", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 750 }]
+  },
+  {
+    "id": "707361d8-da12-4a8d-87c9-441b35660bdd",
+    "updatedAt": 1697820126339,
+    "itemType": "drum",
+    "classes": ["bard"],
+    "quality": "unique",
+    "weaponDamage": 41,
+    "enchantments": [
+      { "name": "buff_duration_bonus", "type": "percent", "value": "0.48" },
+      { "name": "agility", "type": "number", "value": 2 },
+      { "name": "additional_physical_damage", "type": "number", "value": 2 },
+      { "name": "all_attributes", "type": "number", "value": 1 },
+      {
+        "name": "regular_interaction_speed",
+        "type": "percent",
+        "value": "2.39"
+      }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1700 }]
+  },
+  {
+    "id": "154e9704-2dc0-420a-a620-ae6a81697e04",
+    "updatedAt": 1697820126339,
+    "itemType": "flanged_mace",
+    "classes": ["fighter", "cleric"],
+    "quality": "uncommon",
+    "weaponDamage": 36,
+    "enchantments": [
+      { "name": "additional_magic_damage", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1100 }]
+  },
+  {
+    "id": "3cb21eeb-4a2a-4e7e-81cb-7c8b3f21371c",
+    "updatedAt": 1697820126339,
+    "itemType": "survival_bow",
+    "classes": ["ranger", "bard"],
+    "quality": "unique",
+    "weaponDamage": 27,
+    "enchantments": [
+      { "name": "weapon_damage", "type": "number", "value": 1 },
+      {
+        "name": "magical_damage_reduction",
+        "type": "percent",
+        "value": "1.30"
+      },
+      { "name": "strength", "type": "number", "value": 3 },
+      { "name": "armor_penetration", "type": "percent", "value": "1.71" },
+      { "name": "magic_penetration", "type": "percent", "value": "1.81" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 150 }]
+  },
+  {
+    "id": "4c55ba53-7403-4715-abee-077bc054dcbf",
+    "updatedAt": 1697820126339,
+    "itemType": "hatchet",
+    "classes": ["fighter", "barbarian"],
+    "quality": "unique",
+    "weaponDamage": 29,
+    "enchantments": [
+      { "name": "max_health_bonus", "type": "percent", "value": "0.23" },
+      { "name": "weapon_damage", "type": "number", "value": 3 },
+      { "name": "strength", "type": "number", "value": 1 },
+      { "name": "max_health", "type": "number", "value": 4 },
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "1.69" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1200 }]
+  },
+  {
+    "id": "0931c06e-0619-41f5-9248-3ffe744c9c5e",
+    "updatedAt": 1697820126339,
+    "itemType": "arming_sword",
+    "classes": ["fighter", "ranger", "bard"],
+    "quality": "legendary",
+    "weaponDamage": 35,
+    "enchantments": [
+      { "name": "move_speed", "type": "number", "value": 1 },
+      { "name": "knowledge", "type": "number", "value": 2 },
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "1.59" },
+      { "name": "armor_rating", "type": "number", "value": 11 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 550 }]
+  },
+  {
+    "id": "b751bff0-9738-479b-add6-9a5f8a830b16",
+    "updatedAt": 1697820126339,
+    "itemType": "arming_sword",
+    "classes": ["fighter", "ranger", "bard"],
+    "quality": "uncommon",
+    "weaponDamage": 31,
+    "enchantments": [{ "name": "will", "type": "number", "value": 1 }],
+    "offers": [{ "timestamp": 1697820126339, "amount": 850 }]
+  },
+  {
+    "id": "f71c39b2-c1b3-45be-b031-bf320ca4c935",
+    "updatedAt": 1697820126339,
+    "itemType": "flute",
+    "classes": ["bard"],
+    "quality": "rare",
+    "weaponDamage": 22,
+    "enchantments": [
+      {
+        "name": "regular_interaction_speed",
+        "type": "percent",
+        "value": "1.00"
+      },
+      { "name": "max_health_bonus", "type": "percent", "value": "1.60" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1400 }]
+  },
+  {
+    "id": "059a5635-337c-4c5a-9dd1-294d3cc716ad",
+    "updatedAt": 1697820126339,
+    "itemType": "longsword",
+    "classes": ["fighter", "warlock"],
+    "quality": "legendary",
+    "weaponDamage": 48,
+    "enchantments": [
+      { "name": "physical_healing", "type": "number", "value": 1 },
+      {
+        "name": "regular_interaction_speed",
+        "type": "percent",
+        "value": "0.25"
+      },
+      { "name": "strength", "type": "number", "value": 3 },
+      { "name": "will", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 450 }]
+  },
+  {
+    "id": "46e1c2ff-a84e-4d30-a42e-1dd2299ce76a",
+    "updatedAt": 1697820126339,
+    "itemType": "rapier",
+    "classes": ["ranger", "rogue", "bard"],
+    "quality": "rare",
+    "weaponDamage": 25,
+    "enchantments": [
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "1.24" },
+      { "name": "physical_damage_bonus", "type": "percent", "value": "0.78" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1100 }]
+  },
+  {
+    "id": "5f737bf0-ffc1-424e-bf19-c927a2e650b8",
+    "updatedAt": 1697820126339,
+    "itemType": "spellbook",
+    "classes": ["wizard", "cleric", "warlock"],
+    "quality": "uncommon",
+    "magicDamage": 4,
+    "enchantments": [{ "name": "will", "type": "number", "value": 1 }],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1800 }]
+  },
+  {
+    "id": "d3fbbb24-c3b6-482b-bc94-3d8fe1913ce7",
+    "updatedAt": 1697820126339,
+    "itemType": "rondel_dagger",
+    "classes": ["wizard", "rogue", "bard"],
+    "quality": "unique",
+    "weaponDamage": 31,
+    "enchantments": [
+      { "name": "max_health_bonus", "type": "percent", "value": "1.30" },
+      { "name": "action_speed", "type": "percent", "value": "2.39" },
+      { "name": "move_speed", "type": "number", "value": 5 },
+      { "name": "weapon_damage", "type": "number", "value": 1 },
+      { "name": "item_equip_speed", "type": "percent", "value": "1.70" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1700 }]
+  },
+  {
+    "id": "84744cad-8849-44b4-b615-4f92c969576a",
+    "updatedAt": 1697820126339,
+    "itemType": "falchion",
+    "classes": ["fighter", "bard", "warlock"],
+    "quality": "epic",
+    "weaponDamage": 40,
+    "enchantments": [
+      { "name": "move_speed", "type": "number", "value": 3 },
+      { "name": "max_health", "type": "number", "value": 3 },
+      {
+        "name": "physical_damage_reduction",
+        "type": "percent",
+        "value": "0.15"
+      }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1800 }]
+  },
+  {
+    "id": "26e7d156-0a68-49b9-ad15-6f56712c32e1",
+    "updatedAt": 1697820126339,
+    "itemType": "hand_crossbow",
+    "classes": ["ranger", "bard"],
+    "quality": "legendary",
+    "weaponDamage": 28,
+    "enchantments": [
+      { "name": "strength", "type": "number", "value": 2 },
+      { "name": "spell_capacity", "type": "number", "value": 3 },
+      { "name": "knowledge", "type": "number", "value": 2 },
+      { "name": "max_health", "type": "number", "value": 6 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 650 }]
+  },
+  {
+    "id": "635e8400-9923-47a3-a762-b0f2cdc2ce31",
+    "updatedAt": 1697820126339,
+    "itemType": "war_maul",
+    "classes": ["barbarian", "cleric"],
+    "quality": "uncommon",
+    "weaponDamage": 61,
+    "enchantments": [{ "name": "magical_power", "type": "number", "value": 3 }],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1250 }]
+  },
+  {
+    "id": "0018ace0-dbe0-4ac7-8280-16e0c00ca24a",
+    "updatedAt": 1697820126339,
+    "itemType": "falchion",
+    "classes": ["fighter", "bard", "warlock"],
+    "quality": "uncommon",
+    "weaponDamage": 36,
+    "enchantments": [
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "1.66" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1700 }]
+  },
+  {
+    "id": "27ff5d5d-a763-4bbd-8af4-efaa7cefe98b",
+    "updatedAt": 1697820126339,
+    "itemType": "flanged_mace",
+    "classes": ["fighter", "cleric"],
+    "quality": "unique",
+    "weaponDamage": 48,
+    "enchantments": [
+      { "name": "magic_penetration", "type": "percent", "value": "1.47" },
+      {
+        "name": "magical_damage_reduction",
+        "type": "percent",
+        "value": "2.50"
+      },
+      { "name": "physical_healing", "type": "number", "value": 2 },
+      { "name": "knowledge", "type": "number", "value": 2 },
+      { "name": "magical_healing", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 450 }]
+  },
+  {
+    "id": "2accef6f-da38-405e-bed7-998539579cfb",
+    "updatedAt": 1697820126339,
+    "itemType": "spear",
+    "classes": ["fighter", "ranger"],
+    "quality": "epic",
+    "weaponDamage": 47,
+    "enchantments": [
+      { "name": "knowledge", "type": "number", "value": 3 },
+      { "name": "true_magical_damage", "type": "number", "value": 2 },
+      { "name": "physical_healing", "type": "number", "value": 2 }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1450 }]
+  },
+  {
+    "id": "0eb1e6fa-9e13-4983-b968-ebf969e091fb",
+    "updatedAt": 1697820126339,
+    "itemType": "battle_axe",
+    "classes": ["fighter", "barbarian"],
+    "quality": "legendary",
+    "weaponDamage": 56,
+    "enchantments": [
+      {
+        "name": "projectile_damage_reduction",
+        "type": "percent",
+        "value": "0.67"
+      },
+      { "name": "spell_casting_speed", "type": "percent", "value": "2.61" },
+      { "name": "additional_magic_damage", "type": "number", "value": 2 },
+      { "name": "spell_capacity_bonus", "type": "percent", "value": "4.58" }
+    ],
+    "offers": [{ "timestamp": 1697820126339, "amount": 1550 }]
+  },
+  {
+    "id": "be4c94d5-c934-4359-b4bc-8c9942263fb0",
+    "updatedAt": 1697820126340,
+    "itemType": "felling_axe",
+    "classes": ["barbarian"],
+    "quality": "rare",
+    "weaponDamage": 48,
+    "enchantments": [
+      { "name": "additional_magic_damage", "type": "number", "value": 1 },
+      {
+        "name": "physical_damage_reduction",
+        "type": "percent",
+        "value": "0.07"
+      }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 800 }]
+  },
+  {
+    "id": "c40a06ef-a2fd-4dcf-9d5b-3736754d662d",
+    "updatedAt": 1697820126340,
+    "itemType": "kris_dagger",
+    "classes": ["rogue"],
+    "quality": "epic",
+    "weaponDamage": 30,
+    "enchantments": [
+      { "name": "resourcefulness", "type": "number", "value": 2 },
+      { "name": "magical_power", "type": "number", "value": 1 },
+      { "name": "all_attributes", "type": "number", "value": 2 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 950 }]
+  },
+  {
+    "id": "15f05834-68f8-41a7-b108-ee2664aabff3",
+    "updatedAt": 1697820126340,
+    "itemType": "double_axe",
+    "classes": ["barbarian"],
+    "quality": "epic",
+    "weaponDamage": 59,
+    "enchantments": [
+      { "name": "magical_healing", "type": "number", "value": 3 },
+      { "name": "magic_penetration", "type": "percent", "value": "1.60" },
+      { "name": "armor_penetration", "type": "percent", "value": "1.52" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1650 }]
+  },
+  {
+    "id": "7d827c66-2c58-4b32-b648-e5bf890c0aad",
+    "updatedAt": 1697820126340,
+    "itemType": "double_axe",
+    "classes": ["barbarian"],
+    "quality": "unique",
+    "weaponDamage": 64,
+    "enchantments": [
+      { "name": "max_health_bonus", "type": "percent", "value": "1.89" },
+      { "name": "spell_capacity_bonus", "type": "percent", "value": "3.69" },
+      { "name": "item_equip_speed", "type": "percent", "value": "1.76" },
+      { "name": "resourcefulness", "type": "number", "value": 3 },
+      { "name": "magical_healing", "type": "number", "value": 2 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1450 }]
+  },
+  {
+    "id": "82714522-004f-43d0-916a-da0b751ac849",
+    "updatedAt": 1697820126340,
+    "itemType": "stiletto_dagger",
+    "classes": ["rogue"],
+    "quality": "legendary",
+    "weaponDamage": 28,
+    "enchantments": [
+      {
+        "name": "physical_damage_reduction",
+        "type": "percent",
+        "value": "0.80"
+      },
+      { "name": "spell_capacity", "type": "number", "value": 2 },
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "2.52" },
+      { "name": "agility", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 750 }]
+  },
+  {
+    "id": "db11a672-1c89-4036-971f-e7bd0d10661a",
+    "updatedAt": 1697820126340,
+    "itemType": "horsemans_axe",
+    "classes": ["fighter", "barbarian"],
+    "quality": "unique",
+    "weaponDamage": 35,
+    "enchantments": [
+      { "name": "spell_casting_speed", "type": "percent", "value": "0.03" },
+      { "name": "max_health", "type": "number", "value": 6 },
+      { "name": "will", "type": "number", "value": 2 },
+      { "name": "armor_rating", "type": "number", "value": 9 },
+      { "name": "magical_damage_bonus", "type": "percent", "value": "0.42" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 850 }]
+  },
+  {
+    "id": "c87b01ff-c43b-46de-a43e-0385e42cadca",
+    "updatedAt": 1697820126340,
+    "itemType": "horsemans_axe",
+    "classes": ["fighter", "barbarian"],
+    "quality": "unique",
+    "weaponDamage": 36,
+    "enchantments": [
+      {
+        "name": "projectile_damage_reduction",
+        "type": "percent",
+        "value": "0.55"
+      },
+      { "name": "magical_power", "type": "number", "value": 1 },
+      { "name": "max_health", "type": "number", "value": 2 },
+      { "name": "all_attributes", "type": "number", "value": 2 },
+      {
+        "name": "magical_interaction_speed",
+        "type": "percent",
+        "value": "2.39"
+      }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1150 }]
+  },
+  {
+    "id": "9477c34f-4e98-4695-add8-736f2de367b3",
+    "updatedAt": 1697820126340,
+    "itemType": "zweihander",
+    "classes": ["fighter", "barbarian", "warlock"],
+    "quality": "epic",
+    "weaponDamage": 54,
+    "enchantments": [
+      { "name": "magical_healing", "type": "number", "value": 2 },
+      { "name": "additional_physical_damage", "type": "number", "value": 3 },
+      { "name": "armor_penetration", "type": "percent", "value": "2.80" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 800 }]
+  },
+  {
+    "id": "4e22f69d-db03-4906-b805-fd5ae057c8c2",
+    "updatedAt": 1697820126340,
+    "itemType": "drum",
+    "classes": ["bard"],
+    "quality": "unique",
+    "weaponDamage": 42,
+    "enchantments": [
+      { "name": "armor_penetration", "type": "percent", "value": "2.16" },
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "2.13" },
+      { "name": "action_speed", "type": "percent", "value": "1.86" },
+      { "name": "armor_rating", "type": "number", "value": 11 },
+      { "name": "magic_penetration", "type": "percent", "value": "1.39" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1800 }]
+  },
+  {
+    "id": "9c13e95f-e6d6-4bf5-ba84-782ca0859b88",
+    "updatedAt": 1697820126340,
+    "itemType": "magic_staff",
+    "classes": ["wizard", "cleric", "warlock"],
+    "quality": "rare",
+    "weaponDamage": 33,
+    "magicDamage": 9,
+    "enchantments": [
+      { "name": "will", "type": "number", "value": 3 },
+      { "name": "knowledge", "type": "number", "value": 2 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1900 }]
+  },
+  {
+    "id": "3fd91b75-da7d-4517-a925-ede56bff6e8b",
+    "updatedAt": 1697820126340,
+    "itemType": "felling_axe",
+    "classes": ["barbarian"],
+    "quality": "uncommon",
+    "weaponDamage": 48,
+    "enchantments": [
+      { "name": "armor_penetration", "type": "percent", "value": "1.33" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1100 }]
+  },
+  {
+    "id": "5a5cd1f5-fcd9-4d80-92a2-3ad1c75701ac",
+    "updatedAt": 1697820126340,
+    "itemType": "spear",
+    "classes": ["fighter", "ranger"],
+    "quality": "unique",
+    "weaponDamage": 50,
+    "enchantments": [
+      {
+        "name": "magical_interaction_speed",
+        "type": "percent",
+        "value": "2.86"
+      },
+      { "name": "magic_penetration", "type": "percent", "value": "1.10" },
+      { "name": "physical_damage_bonus", "type": "percent", "value": "2.41" },
+      { "name": "magical_healing", "type": "number", "value": 1 },
+      { "name": "resourcefulness", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1700 }]
+  },
+  {
+    "id": "921941d8-5afb-408f-9f7e-787d6751cd0a",
+    "updatedAt": 1697820126340,
+    "itemType": "survival_bow",
+    "classes": ["ranger", "bard"],
+    "quality": "uncommon",
+    "weaponDamage": 18,
+    "enchantments": [
+      { "name": "magical_damage_bonus", "type": "percent", "value": "0.25" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1300 }]
+  },
+  {
+    "id": "6cc98af7-af12-4e3b-920c-ee74fd1cb59e",
+    "updatedAt": 1697820126340,
+    "itemType": "falchion",
+    "classes": ["fighter", "bard", "warlock"],
+    "quality": "epic",
+    "weaponDamage": 41,
+    "enchantments": [
+      { "name": "magic_penetration", "type": "percent", "value": "1.85" },
+      { "name": "spell_capacity", "type": "number", "value": 1 },
+      {
+        "name": "regular_interaction_speed",
+        "type": "percent",
+        "value": "1.00"
+      }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 850 }]
+  },
+  {
+    "id": "31624846-0533-47a0-a627-43cf22cb915e",
+    "updatedAt": 1697820126340,
+    "itemType": "morning_star",
+    "classes": ["cleric"],
+    "quality": "epic",
+    "weaponDamage": 45,
+    "enchantments": [
+      { "name": "all_attributes", "type": "number", "value": 1 },
+      { "name": "armor_penetration", "type": "percent", "value": "2.90" },
+      { "name": "physical_power", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 100 }]
+  },
+  {
+    "id": "4373fa9c-8782-4546-bf7e-a32e324f7766",
+    "updatedAt": 1697820126340,
+    "itemType": "windlass_crossbow",
+    "classes": ["ranger"],
+    "quality": "rare",
+    "weaponDamage": 63,
+    "enchantments": [
+      { "name": "armor_rating", "type": "number", "value": 14 },
+      { "name": "physical_damage_bonus", "type": "percent", "value": "0.72" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 800 }]
+  },
+  {
+    "id": "811d0460-4083-4da6-a031-a5b6563e1451",
+    "updatedAt": 1697820126340,
+    "itemType": "war_maul",
+    "classes": ["barbarian", "cleric"],
+    "quality": "uncommon",
+    "weaponDamage": 59,
+    "enchantments": [
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "0.45" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 850 }]
+  },
+  {
+    "id": "779f101f-91b8-4e2a-8b26-68562495f6fd",
+    "updatedAt": 1697820126340,
+    "itemType": "rondel_dagger",
+    "classes": ["wizard", "rogue", "bard"],
+    "quality": "unique",
+    "weaponDamage": 31,
+    "enchantments": [
+      { "name": "additional_physical_damage", "type": "number", "value": 2 },
+      { "name": "additional_magic_damage", "type": "number", "value": 1 },
+      { "name": "resourcefulness", "type": "number", "value": 3 },
+      {
+        "name": "projectile_damage_reduction",
+        "type": "percent",
+        "value": "1.21"
+      },
+      { "name": "armor_penetration", "type": "percent", "value": "1.82" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1450 }]
+  },
+  {
+    "id": "ee43cd78-16ca-41ee-aa45-ee16f7537687",
+    "updatedAt": 1697820126340,
+    "itemType": "zweihander",
+    "classes": ["fighter", "barbarian", "warlock"],
+    "quality": "rare",
+    "weaponDamage": 49,
+    "enchantments": [
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "1.82" },
+      { "name": "move_speed", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 550 }]
+  },
+  {
+    "id": "b01b27b4-c7cc-4f3e-8000-7ed57ab378f4",
+    "updatedAt": 1697820126340,
+    "itemType": "kris_dagger",
+    "classes": ["rogue"],
+    "quality": "uncommon",
+    "weaponDamage": 26,
+    "enchantments": [
+      { "name": "physical_healing", "type": "number", "value": 2 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1250 }]
+  },
+  {
+    "id": "6f0b945a-8e98-4a65-86d7-56a50a355403",
+    "updatedAt": 1697820126340,
+    "itemType": "hatchet",
+    "classes": ["fighter", "barbarian"],
+    "quality": "unique",
+    "weaponDamage": 30,
+    "enchantments": [
+      { "name": "magical_healing", "type": "number", "value": 2 },
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "3.46" },
+      { "name": "will", "type": "number", "value": 2 },
+      { "name": "all_attributes", "type": "number", "value": 3 },
+      { "name": "spell_capacity_bonus", "type": "percent", "value": "6.24" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 850 }]
+  },
+  {
+    "id": "f23f3fc4-1218-480f-ae91-a637b5f37cdb",
+    "updatedAt": 1697820126340,
+    "itemType": "zweihander",
+    "classes": ["fighter", "barbarian", "warlock"],
+    "quality": "epic",
+    "weaponDamage": 53,
+    "enchantments": [
+      { "name": "additional_physical_damage", "type": "number", "value": 2 },
+      { "name": "magical_healing", "type": "number", "value": 1 },
+      { "name": "armor_rating", "type": "number", "value": 14 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1350 }]
+  },
+  {
+    "id": "bafb0de2-c0d4-4da0-9c94-233175648397",
+    "updatedAt": 1697820126340,
+    "itemType": "spear",
+    "classes": ["fighter", "ranger"],
+    "quality": "epic",
+    "weaponDamage": 44,
+    "enchantments": [
+      { "name": "magic_penetration", "type": "percent", "value": "1.85" },
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "0.23" },
+      { "name": "additional_magic_damage", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1600 }]
+  },
+  {
+    "id": "2289465e-59b0-4e6b-b415-c905150ab730",
+    "updatedAt": 1697820126340,
+    "itemType": "hatchet",
+    "classes": ["fighter", "barbarian"],
+    "quality": "unique",
+    "weaponDamage": 31,
+    "enchantments": [
+      { "name": "physical_damage_bonus", "type": "percent", "value": "3.68" },
+      { "name": "magical_damage_bonus", "type": "percent", "value": "2.51" },
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "1.49" },
+      { "name": "spell_casting_speed", "type": "percent", "value": "0.25" },
+      { "name": "will", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1850 }]
+  },
+  {
+    "id": "a8ef872b-9b65-460a-8e1e-581fece5d0fd",
+    "updatedAt": 1697820126340,
+    "itemType": "windlass_crossbow",
+    "classes": ["ranger"],
+    "quality": "uncommon",
+    "weaponDamage": 61,
+    "enchantments": [
+      { "name": "physical_power", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1550 }]
+  },
+  {
+    "id": "f224d796-aac9-4ea7-99d9-82565cc9958c",
+    "updatedAt": 1697820126340,
+    "itemType": "spear",
+    "classes": ["fighter", "ranger"],
+    "quality": "rare",
+    "weaponDamage": 44,
+    "enchantments": [
+      { "name": "max_health", "type": "number", "value": 3 },
+      { "name": "move_speed", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 350 }]
+  },
+  {
+    "id": "4e2236ec-2e98-4ae6-a8ac-083fac8c1a12",
+    "updatedAt": 1697820126340,
+    "itemType": "castillion_dagger",
+    "classes": ["rogue", "fighter", "bard"],
+    "quality": "unique",
+    "weaponDamage": 33,
+    "enchantments": [
+      {
+        "name": "projectile_damage_reduction",
+        "type": "percent",
+        "value": "1.60"
+      },
+      { "name": "strength", "type": "number", "value": 3 },
+      { "name": "spell_casting_speed", "type": "percent", "value": "1.99" },
+      { "name": "action_speed", "type": "percent", "value": "3.45" },
+      { "name": "armor_rating", "type": "number", "value": 11 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1200 }]
+  },
+  {
+    "id": "43d76c4a-8960-4c61-aca3-61f58ef5674a",
+    "updatedAt": 1697820126340,
+    "itemType": "flanged_mace",
+    "classes": ["fighter", "cleric"],
+    "quality": "epic",
+    "weaponDamage": 39,
+    "enchantments": [
+      { "name": "true_magical_damage", "type": "number", "value": 2 },
+      { "name": "buff_duration_bonus", "type": "percent", "value": "1.08" },
+      { "name": "all_attributes", "type": "number", "value": 3 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 750 }]
+  },
+  {
+    "id": "4661b843-d665-4ee9-9580-c480b7cc9344",
+    "updatedAt": 1697820126340,
+    "itemType": "quarterstaff",
+    "classes": ["barbarian", "wizard", "cleric", "warlock"],
+    "quality": "epic",
+    "weaponDamage": 39,
+    "enchantments": [
+      { "name": "all_attributes", "type": "number", "value": 1 },
+      { "name": "resourcefulness", "type": "number", "value": 2 },
+      { "name": "debuff_duration_bonus", "type": "percent", "value": "0.35" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1700 }]
+  },
+  {
+    "id": "fb5958fd-517b-456b-b7c3-9c0472aeaffb",
+    "updatedAt": 1697820126340,
+    "itemType": "morning_star",
+    "classes": ["cleric"],
+    "quality": "rare",
+    "weaponDamage": 40,
+    "enchantments": [
+      { "name": "physical_damage_bonus", "type": "percent", "value": "2.13" },
+      { "name": "armor_rating", "type": "number", "value": 8 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 350 }]
+  },
+  {
+    "id": "669a87fb-7f13-400b-97d5-0fda838e8dc4",
+    "updatedAt": 1697820126340,
+    "itemType": "horsemans_axe",
+    "classes": ["fighter", "barbarian"],
+    "quality": "uncommon",
+    "weaponDamage": 27,
+    "enchantments": [
+      { "name": "true_physical_damage", "type": "number", "value": 1 }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1700 }]
+  },
+  {
+    "id": "a7ed028f-8146-4ddf-ae6a-5491d2214944",
+    "updatedAt": 1697820126340,
+    "itemType": "zweihander",
+    "classes": ["fighter", "barbarian", "warlock"],
+    "quality": "uncommon",
+    "weaponDamage": 46,
+    "enchantments": [
+      { "name": "magical_damage_reduction", "type": "percent", "value": "2.92" }
+    ],
+    "offers": [{ "timestamp": 1697820126340, "amount": 1050 }]
+  }
+]

@@ -9,6 +9,11 @@ function getRandomInt(range) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
+function getRandomFloat(range) {
+  const float = Math.random() * (range.max - range.min) + range.min;
+  return parseFloat(float).toFixed(2);
+}
+
 export function generateSeedData(number) {
   const itemTypeList = constants.item_constants
     .map((weaponType) => Object.keys(weaponType))
@@ -44,11 +49,10 @@ export function generateSeedData(number) {
             max: enchantment.range.max,
           });
         } else if ((enchantment.type = "percent")) {
-          value =
-            Math.floor(
-              Math.random() * (enchantment.range.max - enchantment.range.min) -
-                enchantment.range.min
-            ) / 10;
+          value = getRandomFloat({
+            max: enchantment.range.max,
+            min: enchantment.range.min,
+          });
         }
 
         return {
